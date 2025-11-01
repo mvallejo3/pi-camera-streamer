@@ -2,7 +2,7 @@
 
 # camera info
 export STREAM_NAME="cam-3"
-export STREAM_HOST="rtmp://picam.roami.io:1935/live"
+export STREAM_HOST="rtmp://__SERVICE_URL__:1935/live"
 export STREAM_WIDTH=800
 export STREAM_HEIGHT=400
 export STREAM_FPS=23
